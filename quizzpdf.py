@@ -7,4 +7,4 @@ for pdf in pdfs:
         a.append(pdf)
 a.write("merged pdf.pdf")
 a.close()
-
+#NOTE: this compiles pdfs only in a given directory
