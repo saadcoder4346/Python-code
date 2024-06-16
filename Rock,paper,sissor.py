@@ -14,4 +14,4 @@ elif user_input not in lsit:
     print("pls throw somehting valid")    
 else:
     print("computer wins")           
-#NOTE:even if its a tie the computer will win watchu gnna do bitx    
+ 
